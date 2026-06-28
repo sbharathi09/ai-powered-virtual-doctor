@@ -26,7 +26,7 @@ A Machine Learning-powered healthcare assistance system that analyzes user-provi
 ```text
 AI-Powered-Virtual-Doctor/
 │
-├── ai_vd.py
+├── app.py
 ├── final_medical_dataset.csv
 ├── requirements.txt
 └── README.md
